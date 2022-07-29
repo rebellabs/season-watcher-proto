@@ -1,0 +1,4 @@
+[2022-07-27T02:47:29.665] [INFO] default - Watching for events... { '0': 'seasonScheduled', '1': 'seasonStatusChanged' }
+[2022-07-27T02:48:13.673] [INFO] default - Watching for events... { '0': 'seasonScheduled', '1': 'seasonStatusChanged' }
+[2022-07-27T02:48:30.414] [INFO] default - lol
+[2022-07-27T02:48:30.417] [INFO] default - Watching for events... { '0': 'seasonScheduled', '1': 'seasonStatusChanged' }
